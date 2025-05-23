@@ -1,4 +1,4 @@
-const ipfsService = require('../services/ipfsService');
+const ipfsService = require('../../services/ipfsService');
 
 describe('IPFSService', () => {
   describe('healthCheck', () => {

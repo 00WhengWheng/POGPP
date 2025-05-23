@@ -1,4 +1,4 @@
-const gpsService = require('../services/gpsService');
+const gpsService = require('../../services/gpsService');
 
 describe('GPSService', () => {
   describe('validateCoordinates', () => {
