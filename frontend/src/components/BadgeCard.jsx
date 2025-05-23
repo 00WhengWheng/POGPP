@@ -1,0 +1,1 @@
+// Card visualizzazione badge NFT (immagine + metadati)
